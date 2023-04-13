@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dim-analysis/static/css/main.073c9b0a.css",
+    "main.js": "/dim-analysis/static/js/main.c9ef46ee.js",
+    "static/js/787.dbb424ef.chunk.js": "/dim-analysis/static/js/787.dbb424ef.chunk.js",
+    "static/media/logo.svg": "/dim-analysis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dim-analysis/index.html",
+    "main.073c9b0a.css.map": "/dim-analysis/static/css/main.073c9b0a.css.map",
+    "main.c9ef46ee.js.map": "/dim-analysis/static/js/main.c9ef46ee.js.map",
+    "787.dbb424ef.chunk.js.map": "/dim-analysis/static/js/787.dbb424ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c9ef46ee.js"
+  ]
+}
